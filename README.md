@@ -78,7 +78,7 @@ Users should be able to:
 ## 🧱 Useful Code Snippets
 
 ```css
-/_ Simulate logo card _/ .logo-card {
+/_ Simulate logo card for mobil(width:375px)_/ .logo-card {
   display: flex;
   flex-direction: column;
   align-items: center;
