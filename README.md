@@ -110,7 +110,7 @@ Users should be able to:
 
 ## 🚀 Live Demo
 
-[[live demo link ](https://gentle-kulfi-773417.netlify.app/)]
+[[live demo link ](https://frontend-mentor-clipboardlandingpag.netlify.app/)]
 
 ## Author
 
