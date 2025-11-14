@@ -175,7 +175,10 @@ img {
   align-items: center;
   justify-content: center;
 }
-.main-footer .list-links a {
+.main-footer .list-links li {
+  list-style: none;
+}
+.main-footer .list-links li a {
   text-decoration: none;
   color: var(--neutral-clr-gray-700);
 }
@@ -186,6 +189,9 @@ img {
   justify-content: space-evenly;
   margin: 20px 0;
   padding: 16px 0;
+}
+.main-footer .social-links li {
+  list-style: none;
 }
 .main-footer .icon {
   font-size: 30px;
@@ -416,10 +422,10 @@ img {
   .main-footer .icon {
     font-size: 26px;
   }
-  .main-footer .social-links a {
+  .main-footer .social-links li {
     color: var(--neutral-clr-gray-700);
   }
-  .main-footer ul a:hover {
+  .main-footer ul li:hover {
     color: var(--primary-clr-green-500);
   }
 }
